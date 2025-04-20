@@ -17,7 +17,7 @@ global.SESSION_ID = process.env.SESSION_ID || '';
 
 global.botname = process.env.BOT_NAME || '𝗘𝗠𝗠𝗬_𝗛𝗘𝗡𝗭-𝗠𝗗';
 
-global.ownernumber = [process.env.OWNER_NUMBER || '2349125042727'];
+global.ownernumber = [process.env.OWNER_NUMBER || '2347030626048'];
 
 global.ownername = process.env.OWNER_NAME || '𝓚𝓘𝓝𝓖 EMMY HENZ';
 
@@ -39,13 +39,13 @@ global.packname = process.env.PACK_NAME || "EMMY HENZ";
 
 global.author = process.env.AUTHOR_NAME || "𝓝𝓞𝓑𝓛𝓔 EMMY HENZ";
 
-global.creator = process.env.CREATOR_NUMBER || "2349125042727@s.whatsapp.net";
+global.creator = process.env.CREATOR_NUMBER || "2347030626048@s.whatsapp.net";
 
 
 //~~~~~~~~~~~~~<Bot Settings>~~~~~~~~~~~~~~~\\
 global.xprefix = process.env.PREFIX || '.';
 
-global.premium = [process.env.PREMIUM_NUMBER || '2349125042727'];
+global.premium = [process.env.PREMIUM_NUMBER || '2347030626048'];
 
 global.typemenu = process.env.MENU_TYPE || 'v2';
 
